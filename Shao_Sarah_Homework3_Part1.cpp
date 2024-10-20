@@ -62,4 +62,19 @@ int main()
 
 
     return 0; //ends program
+
+/*  Terminal:
+    Balance after this withdrawal: 4800
+    Balance after this withdrawal: 4000
+    Balance after this withdrawal: 3960
+    Balance after this deposit: 4050
+    Balance after this deposit: 4150
+    Balance after this deposit: 5150
+    Balance after this withdrawal: 513 */
+
+    /* endBalance.txt
+    The balance before the transactions: 5000
+    Balance after transactions: 5130 */
+
+    
 }
